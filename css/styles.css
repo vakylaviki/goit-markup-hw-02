@@ -56,6 +56,7 @@ ol {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #ffffff;
 }
 .button-service {
@@ -99,7 +100,7 @@ ol {
   color: #434455;
 }
 .team {
-  background: #f4f4fd;
+  background-color: #f4f4fd;
 }
 .section-team-title {
   font-weight: 700;
@@ -108,6 +109,10 @@ ol {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-transform: capitalize;
+  text-align: center;
+}
+.team-list {
+  background-color: #ffffff;
 }
 
 .team-list-title {
@@ -126,7 +131,7 @@ ol {
 }
 
 .portfolio {
-  color: #fff;
+  color: #ffffff;
 }
 
 .section-portfolio-title {
@@ -135,9 +140,12 @@ ol {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
   text-transform: capitalize;
 }
-
+.portfolio-list {
+  background-color: #ffffff;
+}
 .portfolio-list-title {
   font-weight: 500;
   font-size: 20px;
