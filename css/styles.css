@@ -114,7 +114,9 @@ ol {
 .team-list {
   background-color: #ffffff;
 }
-
+.team-item {
+  background-color: #ffffff;
+}
 .team-list-title {
   font-weight: 500;
   font-size: 20px;
